@@ -1,7 +1,4 @@
-echo "# Riya-Store-Sales" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Aku004/Riya-Store-Sales.git
-git push -u origin main
+Priya store wants to create an annual sales report for 2022
+So that, Priya can understand their customers and grow more sales in 2023.
+Our workflow for creating the Excel dashboard involves four main stages: data cleaning, processing, analysis, and dashboard creation.
+
